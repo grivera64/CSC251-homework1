@@ -4,9 +4,6 @@ Purpose: To determine the value of
 the trancendental constant number e (euler)
 Author: Giovanni Rivera
 Date: 02/17/2021 (Spring 2021)
-
-Current Lesson: Lecture 1 - Lecture 5
-Used: printf, scanf, variables, loops, switch, exit
 */
 
 //adding standard libraries
